@@ -8,6 +8,7 @@ setuptools.setup(
   author = 'seungmin',
   author_email = 'lsls011031@gmail.com',
   url = 'https://github.com/sammundong/test/',
+  download_url='https://github.com/sammundong/test/releases/tag/testoutput',
   install_requires=['pytest'],
   long_description = 'oss development...',
   long_description_content_type = 'text/markdown',
